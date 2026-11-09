@@ -10,9 +10,9 @@ Say hi at contact@iamthana.com or on [LinkedIn](https://www.linkedin.com/in/than
 ## Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ทุกวันนี้ทุกคนถาม AI หรือ Search Google มากกว่ากันครับ?](https://iamthana.com/blogs/2026-11-09-ai-search-visibility)
 - [SEO vs AEO vs GEO: ทำเว็บไซต์ยุค AI Search ควรเน้นอะไร?](https://iamthana.com/blogs/2026-11-06-seo-aeo-geo-ai-search)
 - [sshole คืออะไร? ใช้ SSH key only แล้วยังรอดมั้ย](https://iamthana.com/blogs/2026-11-06-sshole)
 - [AI-native SDLC คืออะไร? เมื่อใช้ AI เขียน Code แล้ว ต้องปรับ Workflow ตรงไหนบ้าง](https://iamthana.com/blogs/2026-11-04-ai-native-sdlc)
 - [โหลด Agent Skills ฟรีมาใช้ ต้องระวังอะไร และตรวจสอบอย่างไร?](https://iamthana.com/blogs/2026-11-02-agent-skills-security-check)
-- [ใช้ Claude Code ช่วยดูแล Server ได้ไหม และควรระวังอะไรบ้าง](https://iamthana.com/blogs/2026-10-27-claude-code-server-management)
 <!-- BLOG-POST-LIST:END -->
